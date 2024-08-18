@@ -1,0 +1,1 @@
+The eCommerce cart UI leverages Redux for efficient state management, allowing seamless adjustment of product quantities, with the ability to increase or decrease them as needed
